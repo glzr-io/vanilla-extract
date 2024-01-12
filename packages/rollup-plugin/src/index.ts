@@ -7,7 +7,7 @@ import {
   getSourceFromVirtualCssFile,
   virtualCssFileFilter,
   CompileOptions,
-} from '@vanilla-extract/integration';
+} from '@glzr/vanilla-extract-integration';
 import { posix } from 'path';
 
 const { relative, normalize, dirname } = posix;

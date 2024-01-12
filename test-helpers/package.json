@@ -21,7 +21,7 @@
     "@vanilla-extract/esbuild-plugin": "*",
     "@vanilla-extract/esbuild-plugin-next": "*",
     "@vanilla-extract/parcel-transformer": "*",
-    "@vanilla-extract/vite-plugin": "*",
+    "@glzr/vanilla-extract-vite-plugin": "*",
     "@vanilla-extract/webpack-plugin": "*",
     "babel-loader": "^8.2.2",
     "css-loader": "^5.2.4",

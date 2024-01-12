@@ -11,7 +11,7 @@ import {
   getPackageInfo,
   CompileOptions,
   transform,
-} from '@vanilla-extract/integration';
+} from '@glzr/vanilla-extract-integration';
 import { type PostCSSConfigResult, resolvePostcssConfig } from './postcss';
 
 const styleUpdateEvent = (fileId: string) =>

@@ -6,7 +6,7 @@ import {
   vanillaExtractTransformPlugin,
   IdentifierOption,
   CreateCompilerOptions,
-} from '@vanilla-extract/integration';
+} from '@glzr/vanilla-extract-integration';
 import type { Plugin } from 'esbuild';
 
 const vanillaCssNamespace = 'vanilla-extract-css-ns';

@@ -1,4 +1,4 @@
-import { deserializeCss } from '@vanilla-extract/integration';
+import { deserializeCss } from '@glzr/vanilla-extract-integration';
 // @ts-expect-error
 import { getOptions } from 'loader-utils';
 

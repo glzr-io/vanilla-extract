@@ -7,7 +7,7 @@ import {
   processVanillaFile,
   serializeCss,
   transform,
-} from '@vanilla-extract/integration';
+} from '@glzr/vanilla-extract-integration';
 
 import type { LoaderContext } from './types';
 import { debug, formatResourcePath } from './logger';

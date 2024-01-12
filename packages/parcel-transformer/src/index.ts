@@ -1,5 +1,5 @@
 import { Transformer } from '@parcel/plugin';
-import { compile, processVanillaFile } from '@vanilla-extract/integration';
+import { compile, processVanillaFile } from '@glzr/vanilla-extract-integration';
 
 export default new Transformer({
   async transform({ asset, options }) {

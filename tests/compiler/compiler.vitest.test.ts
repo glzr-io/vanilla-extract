@@ -1,6 +1,6 @@
 import { describe, beforeAll, afterAll, test, expect } from 'vitest';
 import path from 'path';
-import { createCompiler } from '@vanilla-extract/integration';
+import { createCompiler } from '@glzr/vanilla-extract-integration';
 
 function toPosix(filePath: string) {
   return filePath.split(path.sep).join(path.posix.sep);

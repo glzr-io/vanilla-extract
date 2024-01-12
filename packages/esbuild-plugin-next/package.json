@@ -16,7 +16,7 @@
   "author": "SEEK",
   "license": "MIT",
   "dependencies": {
-    "@vanilla-extract/integration": "^6.0.2"
+    "@glzr/vanilla-extract-integration": "^6.0.2"
   },
   "peerDependencies": {
     "esbuild": ">=0.17.6"

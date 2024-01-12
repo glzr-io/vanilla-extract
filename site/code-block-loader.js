@@ -1,4 +1,4 @@
-const { compile, transform } = require('@vanilla-extract/integration');
+const { compile, transform } = require('@glzr/vanilla-extract-integration');
 const evalCode = require('eval');
 
 const { transformCss } = require('@vanilla-extract/css/transformCss');

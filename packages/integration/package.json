@@ -1,11 +1,12 @@
 {
-  "name": "@vanilla-extract/integration",
-  "version": "6.2.4",
+  "name": "@glzr/vanilla-extract-integration",
+  "version": "6.2.5",
   "description": "Zero-runtime Stylesheets-in-TypeScript",
-  "main": "dist/vanilla-extract-integration.cjs.js",
+  "main": "dist/glzr-vanilla-extract-integration.cjs.js",
   "files": [
     "/dist"
   ],
+  "private": false,
   "repository": {
     "type": "git",
     "url": "https://github.com/vanilla-extract-css/vanilla-extract.git",

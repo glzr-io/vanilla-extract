@@ -4,7 +4,7 @@ import {
   transformSync,
   getPackageInfo,
   cssFileFilter,
-} from '@vanilla-extract/integration';
+} from '@glzr/vanilla-extract-integration';
 import * as esbuild from 'esbuild';
 
 const vanillaTransformer: Transformer = {

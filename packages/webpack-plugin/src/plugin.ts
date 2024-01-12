@@ -1,4 +1,7 @@
-import { cssFileFilter, IdentifierOption } from '@vanilla-extract/integration';
+import {
+  cssFileFilter,
+  IdentifierOption,
+} from '@glzr/vanilla-extract-integration';
 import type { Compiler, RuleSetRule } from 'webpack';
 
 import { ChildCompiler } from './compiler';
